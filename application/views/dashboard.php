@@ -60,10 +60,10 @@
                             <a href="/"><i class="fas fa-tachometer-alt"></i>Dashboard</a>
                         </li>
                         <li>
-                            <a href="records"><i class="fas fa-chart-bar"></i>Records</a>
+                            <a href="index.php/records"><i class="fas fa-chart-bar"></i>Records</a>
                         </li>
                         <li>
-                            <a href="records/add"><i class="fas fa-plus-square"></i>Add Records</a>
+                            <a href="index.php/records/add"><i class="fas fa-plus-square"></i>Add Records</a>
                         </li>
                     </ul>
                 </div>
@@ -85,10 +85,10 @@
                             <a href="/"><i class="fas fa-tachometer-alt"></i>Dashboard</a>
                         </li>
                         <li>
-                            <a href="records"><i class="fas fa-chart-bar"></i>Records</a>
+                            <a href="index.php/records"><i class="fas fa-chart-bar"></i>Records</a>
                         </li>
                         <li>
-                            <a href="records/add"><i class="fas fa-plus-square"></i>Add Records</a>
+                            <a href="index.php/records/add"><i class="fas fa-plus-square"></i>Add Records</a>
                         </li>
                     </ul>
                 </nav>

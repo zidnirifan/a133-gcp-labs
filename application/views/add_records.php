@@ -60,10 +60,10 @@
                             <a href="/"><i class="fas fa-tachometer-alt"></i>Dashboard</a>
                         </li>
                         <li>
-                            <a href="../records"><i class="fas fa-chart-bar"></i>Records</a>
+                            <a href="../index.php/records"><i class="fas fa-chart-bar"></i>Records</a>
                         </li>
                         <li class="active">
-                            <a href="../records/add"><i class="fas fa-plus-square"></i>Add Records</a>
+                            <a href="../index.php/records/add"><i class="fas fa-plus-square"></i>Add Records</a>
                         </li>
                     </ul>
                 </div>
@@ -85,10 +85,10 @@
                             <a href="/"><i class="fas fa-tachometer-alt"></i>Dashboard</a>
                         </li>
                         <li>
-                            <a href="../records"><i class="fas fa-chart-bar"></i>Records</a>
+                            <a href="../index.php/records"><i class="fas fa-chart-bar"></i>Records</a>
                         </li>
                         <li class="active">
-                            <a href="../records/add"><i class="fas fa-plus-square"></i>Add Records</a>
+                            <a href="../index.php/records/add"><i class="fas fa-plus-square"></i>Add Records</a>
                         </li>
                     </ul>
                 </nav>
@@ -126,7 +126,7 @@
                                                     <?php echo validation_errors(); ?>
                                                 </div>
                                             <?php endif; ?>
-                                            <?php echo form_open('../records/add', 'enctype="multipart/form-data" class="form-horizontal"'); ?>
+                                            <?php echo form_open('../index.php/records/add', 'enctype="multipart/form-data" class="form-horizontal"'); ?>
                                             
                                                 <div class="form-group">
                                                     <label for="cc-payment" class="control-label mb-1">Amount*</label>
